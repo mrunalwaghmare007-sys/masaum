@@ -1,0 +1,10 @@
+{
+  "name": "MausamSetu India",
+  "description": "AI-Powered Multi-Hazard Weather Intelligence Platform for real-time monitoring and weather report verification.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
